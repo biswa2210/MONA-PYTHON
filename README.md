@@ -20,13 +20,15 @@
 
 <div align="justified">
     
+Mona is a virtual assistant. It gives water, medicine and other health related reminders.
  
 </div>
 
 ## Purpose :point_down:
 
 <div align="justified">
-I have made this for entertainment of children as well as adults. Anyone can play it very easily. The objective of the game is to make the other player crash. The snake game is simple game. In this game the snake is eating some foods and get its size larger in step by step and getting some score.
+    
+I have made this so that it can give reminder to me and my friends for healthy life.
 </div>
 
 
