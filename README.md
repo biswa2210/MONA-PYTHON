@@ -20,9 +20,13 @@
 
 <div align="justified">
     
-Mona is a virtual assistant. It gives water, medicine and other health related reminders.
+Mona is a virtual assistant. It gives water, medicine and other health related reminders. Mona can be only activated when user sends a message from the verified number of twilio to Mona. The message is join ask-chamber. I have used twilio messaging in this project. When Mona is activated she sends a message containing greeting good morning, afternoon, evening, night according to standard time. I have used AP schedular to schedule the time of reminder. First time when it is activated it starts sending reminder after 16 second time. Account Auth Token and Account Sid are used to create client. Then the client gets messages from Mona.
  
 </div>
+
+## MONA DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=cIiXk4OQ4EU&list=PL0lbDlMJ1h4ikgkbohDuJurlnFvGzJCMr&index=7">Click here to watch</a>
+
+## PYTHON PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=SsKXFCSfQgw&list=PL0lbDlMJ1h4ikgkbohDuJurlnFvGzJCMr">Click here to watch</a>
 
 ## Purpose :point_down:
 
