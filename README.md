@@ -45,7 +45,7 @@ MONA-PYTHON
 
 <div align="center">
     
-<a href=""><img src="" width="400" height= "280"></a> <a href=""><img src="" width="400" height= "280"></a>
+<a href="mona1.png"><img src="mona1.png" width="800" height= "400"></a> <a href=""><img src="" width="400" height= "280"></a>
 
 </div>
 
